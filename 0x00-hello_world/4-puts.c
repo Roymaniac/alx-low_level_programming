@@ -1,7 +1,8 @@
 #include <stdio.h>
+
 /**
- * main function print a string og text
- * retun 0 if exited properly
+ * * main - prints the phrase "Programming is like building a multilingual puzzle
+ * * Return: 0 if exited properly, non-zero otherwise
  * */
 
 int main(void) 
