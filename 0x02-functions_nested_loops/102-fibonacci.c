@@ -18,7 +18,7 @@ int main(void)
 		if (j != 20365011074)
 		{
 			printf("%ld, ", j);
-		} else 
+		} else
 		{
 			printf("%ld\n", j);
 		}
@@ -26,6 +26,5 @@ int main(void)
 		j = k;
 		k = next;
 	}
-	
 	return (0);
 }
